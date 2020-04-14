@@ -23,6 +23,14 @@ The script utlizes ArcPy's "MakeNetCDFRasterLayer_md" "CopyRaster_management" fu
 def NetCDF2GeoTIFF(curDir, variableList) contains a list of all possible output products that ACOLITE offers for both Landsat 8 and Sentinel-2 that will be converted to rasters. 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+LINKS TO DOWNLOAD ARCGIS TOOLBOX FILES:
+
+BatchCDF2Raster_Sentinel2.tbx
+https://drive.google.com/file/d/0B4u-x_yRw1ebUEh2UFhFNnZjWXM/view?usp=sharing
+
+BatchCDF2Raster_Landsat8.tbx
+https://drive.google.com/file/d/0B4u-x_yRw1ebSkYtOHU5MFVpazQ/view?usp=sharing
+
 POINT OF CONTACT:
 
 Antonio Alvarado 
